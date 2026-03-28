@@ -1,11 +1,12 @@
 # Hi, I'm Eugene
+
 Engineer focused on **Infra / DevOps / AI-Ops** for **LLM** and **agent systems**.
 
-## About me
+## About
 
-I work on the operational side of AI systems: deployment, inference pipelines, observability, reliability, automation, and production workflows.
+I work on the operational side of AI systems: deployment, inference pipelines, observability, reliability, and production workflows.
 
-I'm especially interested in building infrastructure for LLM applications and agent-based systems that are stable, measurable, and production-ready.
+I'm especially interested in infrastructure for LLM applications and agent-based systems that need to be stable, measurable, and production-ready.
 
 ## Focus areas
 
@@ -14,23 +15,25 @@ I'm especially interested in building infrastructure for LLM applications and ag
 - deployment and runtime reliability
 - observability and tracing
 - CI/CD for AI services
-- containerized workloads
-- eval and operational tooling
+- model serving operations
 
-## Tech stack
+## Stack
 
 - Python
+- FastAPI
 - Docker
 - Kubernetes
+- Helm
+- GitHub Actions
 - Linux
 - Terraform
-- GitHub Actions
-- FastAPI
 - Redis
 - PostgreSQL
 - Prometheus
 - Grafana
 - OpenTelemetry
+- vLLM
+- Langfuse
 
 ## Currently interested in
 
@@ -39,3 +42,7 @@ I'm especially interested in building infrastructure for LLM applications and ag
 - eval pipelines
 - model serving reliability
 - AI-Ops automation
+
+## Contact
+
+- Telegram: @eugops
